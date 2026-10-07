@@ -4,6 +4,7 @@ This repository contains a collection of Google Colab notebooks for exploring pr
 
 ## Catalog
 
+- [EmbeddingGemma-2 Multimodal Retrieval](EmbeddingGemma2-multimodal-retrieval.ipynb) - Search photos, sounds, video moments, and PDF pages with EmbeddingGemma-2, which puts text, images, audio, and video in one vector space, including voice queries and smaller Matryoshka vectors.
 - [Gemini Omni Capabilities](gemini-omni-capabilities.ipynb) - Generate and edit video with Gemini Omni Flash through the Interactions API: text-to-video, on-screen text, generated audio, and edits chained across turns.
 - [Get Started with Chatterbox TTS](get-started-with-ChatterBox-TTS.ipynb) - Run Resemble AI's open-source Chatterbox models (Turbo, Multilingual, and English) for zero-shot voice cloning, paralinguistic tags like `[laugh]`, and speech in 23+ languages.
 - [Get Started with Gemini TTS](get-started-with-gemini-TTS.ipynb) - Turn text into single-speaker or multi-speaker audio with the Gemini API, and control style, accent, pace, and tone with prompts.
